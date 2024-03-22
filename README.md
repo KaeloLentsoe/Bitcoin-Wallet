@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Bitcoin-Wallet
 ## 3 Easy Steps to Create a Bitcoin Wallet in Python
 
@@ -18,7 +18,7 @@ To create a Bitcoin wallet in Python, you first need to install the `bitcoinaddr
 - For Jupyter Notebook Cell:
   ```
   !pip install bitcoinaddress
-  ```
+
 
 ### Step 2: Import and Create Wallet
 Once the library is installed, you can import the `Wallet` class from the `bitcoinaddress` module. This class allows you to easily create a new and random public/private keypair using the `Wallet()` constructor method.
